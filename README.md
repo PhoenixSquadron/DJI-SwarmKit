@@ -1,5 +1,5 @@
 # DJI-Swarmkit
-This is a GitHub Repository about the DJI Robomaster TT Swarm Kit ( Only available in China & Singpore as of September 2021). Different code to operate the drone swarm will be featured here. From fully fuctional flights to small fragments of code to create your own swarm. 
+This is a GitHub Repository about the DJI Robomaster TT Swarm Kit ( Only available in China & Singpore as of September 2021). This repository is forked from https://github.com/Shreyas-dotcom/DJI-SwarmKit. Different code to operate the drone swarm will be featured here. From fully fuctional flights to small fragments of code to create your own swarm. 
 NOTICE: This only works on Python 3.7.8 Make sure you have that installed. This is also only Windows Compadible. 
 
 Created For: 
